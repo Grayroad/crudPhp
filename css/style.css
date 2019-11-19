@@ -1,0 +1,7 @@
+.rodape{
+    bottom: 0;
+}
+
+input[type="email"].cadastro{
+    text-align: center;
+}
